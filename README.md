@@ -1,7 +1,5 @@
 # Hi there 👋
 
-## About me
-
 My name is Marcel. I'm currently studying computer science at Hochschule Augsburg.  
 I like to code music related stuff and open source software.
 
