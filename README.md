@@ -15,7 +15,7 @@ I like to code music related stuff and open source software.
 ## 📫 How to reach me
 
 Feel free to shoot me a message anytime :)  
-* Discord: [https://discordapp.com/users/239823150295154689](https://discordapp.com/users/239823150295154689)
+* Discord: [mac641 -> https://discordapp.com/users/239823150295154689](https://discordapp.com/users/239823150295154689)
 
 <!--
 **mac641/mac641** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
