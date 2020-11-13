@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I'm Marcel. Currently I'm studying computer science at Hochschule Augsburg.
+I like to code music related stuff and open source software.
+
 #### 👷 Check out what I'm currently working on
 {{range recentContributions 10}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
