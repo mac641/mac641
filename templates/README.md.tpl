@@ -5,12 +5,12 @@ I like to code music related stuff and open source software.
 
 #### 👷 Check out what I'm currently working on
 {{range recentContributions 7}}
-- [{{.Name}}]({{.URL}}) - ({{humanize .OccurredAt}})
+- [{{.Repo.Name}}]({{.Repo.URL}}) - ({{humanize .OccurredAt}})
 {{- end}}
 
 #### 🌱 My latest projects
 {{range recentRepos 7}}
-- [{{.Name}}]({{.URL}}) - {{.Description}}
+- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Description}}
 {{- end}}
 
 #### 🔭 Latest releases I've contributed to
