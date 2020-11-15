@@ -10,7 +10,7 @@ I like to code music related stuff and open source software.
 
 #### 🌱 My latest projects
 {{range recentRepos 7}}
-- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Description}}
+- [{{.Name}}]({{.URL}}) - {{.Description}}
 {{- end}}
 
 #### 🔭 Latest releases I've contributed to
