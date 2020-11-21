@@ -7,7 +7,7 @@ I like to code music related stuff and open source software.
 
 - [teamulster/report](https://github.com/teamulster/report) - (1 month ago)
 - [teamulster/soHappy](https://github.com/teamulster/soHappy) - (1 month ago)
-- [teamulster/modeltrainer](https://github.com/teamulster/modeltrainer) - (1 month ago)
+- [teamulster/modeltrainer](https://github.com/teamulster/modeltrainer) - (2 months ago)
 - [mac641/tab-split-merger](https://github.com/mac641/tab-split-merger) - (2 months ago)
 
 #### 🌱 My latest projects
