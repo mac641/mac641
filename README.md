@@ -18,6 +18,10 @@ I like to code music related stuff and open source software.
 
 - [mac641/tab-split-merger](https://github.com/mac641/tab-split-merger) ([1.1.1.1](https://github.com/mac641/tab-split-merger/releases/tag/1.1.1.1), 2 months ago)
 
+#### 📓 Gists I wrote
+
+- [Installing Fedora CoreOS on VirtualBox on Windows 10](https://gist.github.com/7b4e24ad0dc0c2cac281ca6b8b48eb07) (today)
+
 #### ❤️ These awesome people sponsor me (thank you!)
 
 
