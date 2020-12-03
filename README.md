@@ -20,7 +20,7 @@ I like to code music related stuff and open source software.
 
 #### 📓 Gists I wrote
 
-- [Installing Fedora CoreOS on VirtualBox on Windows 10](https://gist.github.com/7b4e24ad0dc0c2cac281ca6b8b48eb07) (2 days ago)
+- [Installing Fedora CoreOS on VirtualBox on Windows 10](https://gist.github.com/7b4e24ad0dc0c2cac281ca6b8b48eb07) (3 days ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
