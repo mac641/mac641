@@ -23,15 +23,7 @@ I like to code music related stuff and open source software.
 - [{{.Description}}]({{.URL}}) ({{humanize .CreatedAt}})
 {{- end}}
 
-#### ❤️ These awesome people sponsor me (thank you!)
-{{range sponsors 5}}
-- [{{.User.Login}}]({{.User.URL}}) ({{humanize .CreatedAt}})
-{{- end}}
-
-#### 💬 Feedback
-
-Feel free to shoot me a message anytime! :)
-
 #### 📫 How to reach me
 
+Feel free to shoot me a message anytime! :)  
 * Discord: https://discordapp.com/users/239823150295154689
