@@ -8,7 +8,7 @@ I like to code music related stuff and open source software.
 - [teamulster/report](https://github.com/teamulster/report) - (1 month ago)
 - [teamulster/soHappy](https://github.com/teamulster/soHappy) - (2 months ago)
 - [teamulster/modeltrainer](https://github.com/teamulster/modeltrainer) - (2 months ago)
-- [mac641/tab-split-merger](https://github.com/mac641/tab-split-merger) - (2 months ago)
+- [mac641/tab-split-merger](https://github.com/mac641/tab-split-merger) - (3 months ago)
 
 #### 🌱 My latest projects
 
@@ -16,7 +16,7 @@ I like to code music related stuff and open source software.
 
 #### 🔭 Latest releases I've contributed to
 
-- [mac641/tab-split-merger](https://github.com/mac641/tab-split-merger) ([1.1.1.1](https://github.com/mac641/tab-split-merger/releases/tag/1.1.1.1), 2 months ago)
+- [mac641/tab-split-merger](https://github.com/mac641/tab-split-merger) ([1.1.1.1](https://github.com/mac641/tab-split-merger/releases/tag/1.1.1.1), 3 months ago)
 
 #### 📓 Gists I wrote
 
