@@ -7,7 +7,7 @@ I like to code music related stuff and open source software.
 
 - [teamulster/report](https://github.com/teamulster/report) - (2 months ago)
 - [teamulster/soHappy](https://github.com/teamulster/soHappy) - (2 months ago)
-- [teamulster/modeltrainer](https://github.com/teamulster/modeltrainer) - (2 months ago)
+- [teamulster/modeltrainer](https://github.com/teamulster/modeltrainer) - (3 months ago)
 - [mac641/tab-split-merger](https://github.com/mac641/tab-split-merger) - (3 months ago)
 
 #### 🌱 My latest projects
@@ -20,7 +20,7 @@ I like to code music related stuff and open source software.
 
 #### 📓 Gists I wrote
 
-- [Installing Fedora CoreOS on VirtualBox on Windows 10](https://gist.github.com/7b4e24ad0dc0c2cac281ca6b8b48eb07) (2 weeks ago)
+- [Installing Fedora CoreOS on VirtualBox on Windows 10](https://gist.github.com/7b4e24ad0dc0c2cac281ca6b8b48eb07) (3 weeks ago)
 
 #### 📫 How to reach me
 
