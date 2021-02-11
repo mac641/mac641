@@ -5,8 +5,8 @@ I like to code music related stuff and open source software.
 
 #### 👷 Check out what I'm currently working on
 
-- [mac641/tab-split-merger](https://github.com/mac641/tab-split-merger) - (2 days ago)
-- [teamulster/report](https://github.com/teamulster/report) - (3 months ago)
+- [mac641/tab-split-merger](https://github.com/mac641/tab-split-merger) - (3 days ago)
+- [teamulster/report](https://github.com/teamulster/report) - (4 months ago)
 - [teamulster/soHappy](https://github.com/teamulster/soHappy) - (4 months ago)
 - [teamulster/modeltrainer](https://github.com/teamulster/modeltrainer) - (4 months ago)
 
@@ -16,11 +16,11 @@ I like to code music related stuff and open source software.
 
 #### 🔭 Latest releases I've contributed to
 
-- [mac641/tab-split-merger](https://github.com/mac641/tab-split-merger) ([v1.2.2](https://github.com/mac641/tab-split-merger/releases/tag/v1.2.2), 2 days ago)
+- [mac641/tab-split-merger](https://github.com/mac641/tab-split-merger) ([v1.2.2](https://github.com/mac641/tab-split-merger/releases/tag/v1.2.2), 3 days ago)
 
 #### 📓 Gists I wrote
 
-- [Install Alpine Linux on WSL and connect it to Docker Desktop](https://gist.github.com/07a53ba45f0b30af046d6f9ed94a1ace) (6 days ago)
+- [Install Alpine Linux on WSL and connect it to Docker Desktop](https://gist.github.com/07a53ba45f0b30af046d6f9ed94a1ace) (1 week ago)
 - [Installing Fedora CoreOS on VirtualBox on Windows 10](https://gist.github.com/7b4e24ad0dc0c2cac281ca6b8b48eb07) (2 months ago)
 
 #### 📫 How to reach me
