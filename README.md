@@ -6,7 +6,7 @@ I like to code music related stuff and open source software.
 #### 👷 Check out what I'm currently working on
 
 - [mac641/qnap-nas-backup](https://github.com/mac641/qnap-nas-backup) - (1 month ago)
-- [mac641/tab-split-merger](https://github.com/mac641/tab-split-merger) - (4 months ago)
+- [mac641/tab-split-merger](https://github.com/mac641/tab-split-merger) - (5 months ago)
 - [teamulster/report](https://github.com/teamulster/report) - (8 months ago)
 - [teamulster/soHappy](https://github.com/teamulster/soHappy) - (9 months ago)
 - [teamulster/modeltrainer](https://github.com/teamulster/modeltrainer) - (9 months ago)
@@ -18,7 +18,7 @@ I like to code music related stuff and open source software.
 
 #### 🔭 Latest releases I've contributed to
 
-- [mac641/tab-split-merger](https://github.com/mac641/tab-split-merger) ([v1.2.2](https://github.com/mac641/tab-split-merger/releases/tag/v1.2.2), 4 months ago)
+- [mac641/tab-split-merger](https://github.com/mac641/tab-split-merger) ([v1.2.2](https://github.com/mac641/tab-split-merger/releases/tag/v1.2.2), 5 months ago)
 
 #### 📓 Gists I wrote
 
