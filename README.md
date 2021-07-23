@@ -8,7 +8,7 @@ I like to code music related stuff and open source software.
 - [mac641/qnap-nas-backup](https://github.com/mac641/qnap-nas-backup) - (2 months ago)
 - [mac641/tab-split-merger](https://github.com/mac641/tab-split-merger) - (5 months ago)
 - [teamulster/report](https://github.com/teamulster/report) - (9 months ago)
-- [teamulster/soHappy](https://github.com/teamulster/soHappy) - (9 months ago)
+- [teamulster/soHappy](https://github.com/teamulster/soHappy) - (10 months ago)
 - [teamulster/modeltrainer](https://github.com/teamulster/modeltrainer) - (10 months ago)
 
 #### 🌱 My latest projects
