@@ -29,3 +29,5 @@ I like to code music related stuff and open source software.
 
 Feel free to shoot me a message anytime! :)  
 * Discord: https://discordapp.com/users/239823150295154689
+* LinkedIn: https://www.linkedin.com/in/mac641/
+* Xing: https://www.xing.com/profile/Marcel_Arndt27/cv
