@@ -11,7 +11,6 @@ I like to code music related stuff and open source software.
 - [mac641/tab-split-merger](https://github.com/mac641/tab-split-merger) - (7 months ago)
 - [teamulster/report](https://github.com/teamulster/report) - (11 months ago)
 - [teamulster/soHappy](https://github.com/teamulster/soHappy) - (11 months ago)
-- [teamulster/modeltrainer](https://github.com/teamulster/modeltrainer) - (11 months ago)
 
 #### 🌱 My latest projects
 
@@ -32,4 +31,3 @@ I like to code music related stuff and open source software.
 Feel free to shoot me a message anytime! :)  
 * Discord: https://discordapp.com/users/239823150295154689
 * LinkedIn: https://www.linkedin.com/in/mac641/
-* Xing: https://www.xing.com/profile/Marcel_Arndt27/cv
