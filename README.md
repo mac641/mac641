@@ -1,6 +1,8 @@
+![](https://media.giphy.com/media/26BkMkEayiz8Ebjby/giphy.gif)
+
 ### Hi there 👋
 
-I'm Marcel. Currently I'm studying computer science at Hochschule Augsburg.
+I'm Marcel. Currently I'm pursuing a bachelor's degree in Computer Science at the University of Applied Sciences Augsburg.
 I like to code music related stuff and open source software.
 
 #### 👷 Check out what I'm currently working on
@@ -10,7 +12,6 @@ I like to code music related stuff and open source software.
 - [mac641/qnap-nas-backup](https://github.com/mac641/qnap-nas-backup) - (4 months ago)
 - [mac641/tab-split-merger](https://github.com/mac641/tab-split-merger) - (7 months ago)
 - [teamulster/report](https://github.com/teamulster/report) - (11 months ago)
-- [teamulster/soHappy](https://github.com/teamulster/soHappy) - (1 year ago)
 
 #### 🌱 My latest projects
 
