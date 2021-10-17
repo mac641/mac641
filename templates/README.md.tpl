@@ -4,7 +4,7 @@
 
 ### Hi there 👋
 
-I'm Marcel. Currently I'm pursuing a bachelor's degree in Computer Science at the University of Applied Sciences Augsburg.
+I'm Marcel, 26, currently pursuing a bachelor's degree in Computer Science at the University of Applied Sciences Augsburg.
 I like to code music related stuff and open source software.
 
 #### 👷 Check out what I'm currently working on
@@ -32,3 +32,4 @@ I like to code music related stuff and open source software.
 Feel free to shoot me a message anytime! :)  
 * Discord: https://discordapp.com/users/239823150295154689
 * LinkedIn: https://www.linkedin.com/in/mac641/
+* Mastodon: https://mastodon.art -> @mac641
