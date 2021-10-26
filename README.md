@@ -9,7 +9,7 @@ I like to code music related stuff and open source software.
 
 #### 👷 Check out what I'm currently working on
 
-- [teamulster2/soTired](https://github.com/teamulster2/soTired) - (5 days ago)
+- [teamulster2/soTired](https://github.com/teamulster2/soTired) - (6 days ago)
 - [teamulster2/report](https://github.com/teamulster2/report) - (4 weeks ago)
 - [mac641/qnap-nas-backup](https://github.com/mac641/qnap-nas-backup) - (5 months ago)
 - [mac641/tab-split-merger](https://github.com/mac641/tab-split-merger) - (8 months ago)
@@ -21,13 +21,13 @@ I like to code music related stuff and open source software.
 
 #### 🔭 Latest releases I've contributed to
 
-- [teamulster2/soTired](https://github.com/teamulster2/soTired) ([v0.1.0](https://github.com/teamulster2/soTired/releases/tag/v0.1.0), 5 days ago)
+- [teamulster2/soTired](https://github.com/teamulster2/soTired) ([v0.1.0](https://github.com/teamulster2/soTired/releases/tag/v0.1.0), 6 days ago)
 - [mac641/tab-split-merger](https://github.com/mac641/tab-split-merger) ([v1.2.2](https://github.com/mac641/tab-split-merger/releases/tag/v1.2.2), 8 months ago)
 
 #### 📓 Gists I wrote
 
 - [Install Alpine Linux on WSL and connect it to Docker Desktop](https://gist.github.com/07a53ba45f0b30af046d6f9ed94a1ace) (8 months ago)
-- [Installing Fedora CoreOS on VirtualBox on Windows 10](https://gist.github.com/7b4e24ad0dc0c2cac281ca6b8b48eb07) (10 months ago)
+- [Installing Fedora CoreOS on VirtualBox on Windows 10](https://gist.github.com/7b4e24ad0dc0c2cac281ca6b8b48eb07) (11 months ago)
 
 #### 📫 How to reach me
 
