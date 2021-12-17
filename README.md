@@ -11,7 +11,7 @@ I like to code music related stuff and open source software.
 
 - [teamulster2/soTired](https://github.com/teamulster2/soTired) - (1 month ago)
 - [teamulster2/report](https://github.com/teamulster2/report) - (2 months ago)
-- [mac641/qnap-nas-backup](https://github.com/mac641/qnap-nas-backup) - (6 months ago)
+- [mac641/qnap-nas-backup](https://github.com/mac641/qnap-nas-backup) - (7 months ago)
 - [mac641/tab-split-merger](https://github.com/mac641/tab-split-merger) - (10 months ago)
 
 #### 🌱 My latest projects
