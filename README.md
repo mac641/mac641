@@ -26,7 +26,7 @@ I like to code music related stuff and open source software.
 
 #### 📓 Gists I wrote
 
-- [Install Alpine Linux on WSL and connect it to Docker Desktop](https://gist.github.com/07a53ba45f0b30af046d6f9ed94a1ace) (11 months ago)
+- [Install Alpine Linux on WSL and connect it to Docker Desktop](https://gist.github.com/07a53ba45f0b30af046d6f9ed94a1ace) (1 year ago)
 - [Installing Fedora CoreOS on VirtualBox on Windows 10](https://gist.github.com/7b4e24ad0dc0c2cac281ca6b8b48eb07) (1 year ago)
 
 #### 📫 How to reach me
