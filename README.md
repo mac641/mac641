@@ -9,6 +9,7 @@ I like to code music related stuff and open source software.
 
 #### 👷 Check out what I'm currently working on
 
+- [mac641/audio-converter](https://github.com/mac641/audio-converter) - (today)
 - [teamulster2/soTired](https://github.com/teamulster2/soTired) - (3 months ago)
 - [teamulster2/report](https://github.com/teamulster2/report) - (4 months ago)
 - [mac641/qnap-nas-backup](https://github.com/mac641/qnap-nas-backup) - (8 months ago)
@@ -16,11 +17,13 @@ I like to code music related stuff and open source software.
 
 #### 🌱 My latest projects
 
+- [mac641/audio-converter](https://github.com/mac641/audio-converter) - audio-converter allows you to convert audio files from within your web browser.
 - [mac641/qnap-nas-backup](https://github.com/mac641/qnap-nas-backup) - This repo contains Docker components for backing up your QNAP NAS within a LAN.
 - [mac641/tab-split-merger](https://github.com/mac641/tab-split-merger) - Tab Split Merger for Firefox splits tabs into multiple windows and merges them back together into one.
 
 #### 🔭 Latest releases I've contributed to
 
+- [mac641/audio-converter](https://github.com/mac641/audio-converter) ([v0.0.1](https://github.com/mac641/audio-converter/releases/tag/v0.0.1), today)
 - [teamulster2/soTired](https://github.com/teamulster2/soTired) ([v0.1.0](https://github.com/teamulster2/soTired/releases/tag/v0.1.0), 3 months ago)
 
 #### 📓 Gists I wrote
