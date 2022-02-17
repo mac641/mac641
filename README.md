@@ -9,8 +9,8 @@ I like to code music related stuff and open source software.
 
 #### 👷 Check out what I'm currently working on
 
-- [mac641/audio-converter](https://github.com/mac641/audio-converter) - (5 days ago)
-- [teamulster2/soTired](https://github.com/teamulster2/soTired) - (3 months ago)
+- [mac641/audio-converter](https://github.com/mac641/audio-converter) - (6 days ago)
+- [teamulster2/soTired](https://github.com/teamulster2/soTired) - (4 months ago)
 - [teamulster2/report](https://github.com/teamulster2/report) - (4 months ago)
 - [mac641/qnap-nas-backup](https://github.com/mac641/qnap-nas-backup) - (9 months ago)
 
@@ -22,8 +22,8 @@ I like to code music related stuff and open source software.
 
 #### 🔭 Latest releases I've contributed to
 
-- [mac641/audio-converter](https://github.com/mac641/audio-converter) ([v0.0.1](https://github.com/mac641/audio-converter/releases/tag/v0.0.1), 6 days ago)
-- [teamulster2/soTired](https://github.com/teamulster2/soTired) ([v0.1.0](https://github.com/teamulster2/soTired/releases/tag/v0.1.0), 3 months ago)
+- [mac641/audio-converter](https://github.com/mac641/audio-converter) ([v0.0.1](https://github.com/mac641/audio-converter/releases/tag/v0.0.1), 1 week ago)
+- [teamulster2/soTired](https://github.com/teamulster2/soTired) ([v0.1.0](https://github.com/teamulster2/soTired/releases/tag/v0.1.0), 4 months ago)
 
 #### 📓 Gists I wrote
 
