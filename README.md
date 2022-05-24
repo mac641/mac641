@@ -9,7 +9,7 @@ I like to code music related stuff and open source software.
 
 #### 👷 Check out what I'm currently working on
 
-- [education/GitHubGraduation-2022](https://github.com/education/GitHubGraduation-2022) - (2 weeks ago)
+- [education/GitHubGraduation-2022](https://github.com/education/GitHubGraduation-2022) - (3 weeks ago)
 - [mac641/audio-converter](https://github.com/mac641/audio-converter) - (3 months ago)
 - [teamulster2/soTired](https://github.com/teamulster2/soTired) - (7 months ago)
 - [teamulster2/report](https://github.com/teamulster2/report) - (7 months ago)
@@ -28,7 +28,7 @@ I like to code music related stuff and open source software.
 #### 📓 Gists I wrote
 
 - [Install Alpine Linux on WSL and connect it to Docker Desktop](https://gist.github.com/07a53ba45f0b30af046d6f9ed94a1ace) (1 year ago)
-- [Installing Fedora CoreOS on VirtualBox on Windows 10](https://gist.github.com/7b4e24ad0dc0c2cac281ca6b8b48eb07) (1 year ago)
+- [Installing Fedora CoreOS on VirtualBox on Windows 10](https://gist.github.com/7b4e24ad0dc0c2cac281ca6b8b48eb07) (2 years ago)
 
 #### 📫 How to reach me
 
