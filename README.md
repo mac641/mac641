@@ -11,7 +11,7 @@ I like to code music related stuff and open source software.
 
 - [education/GitHubGraduation-2022](https://github.com/education/GitHubGraduation-2022) - (1 month ago)
 - [mac641/audio-converter](https://github.com/mac641/audio-converter) - (4 months ago)
-- [teamulster2/soTired](https://github.com/teamulster2/soTired) - (7 months ago)
+- [teamulster2/soTired](https://github.com/teamulster2/soTired) - (8 months ago)
 - [teamulster2/report](https://github.com/teamulster2/report) - (8 months ago)
 
 #### 🌱 My latest projects
@@ -23,7 +23,7 @@ I like to code music related stuff and open source software.
 #### 🔭 Latest releases I've contributed to
 
 - [mac641/audio-converter](https://github.com/mac641/audio-converter) ([v0.0.1](https://github.com/mac641/audio-converter/releases/tag/v0.0.1), 4 months ago)
-- [teamulster2/soTired](https://github.com/teamulster2/soTired) ([v0.1.0](https://github.com/teamulster2/soTired/releases/tag/v0.1.0), 7 months ago)
+- [teamulster2/soTired](https://github.com/teamulster2/soTired) ([v0.1.0](https://github.com/teamulster2/soTired/releases/tag/v0.1.0), 8 months ago)
 
 #### 📓 Gists I wrote
 
