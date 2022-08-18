@@ -4,8 +4,8 @@
 
 ### Hi there 👋
 
-I'm Marcel, 26, currently pursuing a bachelor's degree in Computer Science at the University of Applied Sciences Augsburg.
-I like to code all kinds of stuff, especially if it's sports or music related and, of course, open source.
+I'm Marcel, 26, currently pursuing a bachelor's degree in Computer Science at the University of Applied Sciences
+Augsburg. I like to code all kinds of stuff, especially if it's sports or music related.
 
 #### 👷 Check out what I'm currently working on
 
