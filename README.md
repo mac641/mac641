@@ -15,7 +15,6 @@ Augsburg. I like to code all kinds of stuff, especially if it's sports or music 
 - [verticaloceanstudios/.github](https://github.com/verticaloceanstudios/.github)
 - [education/GitHubGraduation-2022](https://github.com/education/GitHubGraduation-2022)
 - [teamulster2/soTired](https://github.com/teamulster2/soTired)
-- [teamulster2/report](https://github.com/teamulster2/report)
 
 #### 🌱 My latest projects
 
