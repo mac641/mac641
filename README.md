@@ -13,7 +13,6 @@ Augsburg. I like to code all kinds of stuff, especially if it's sports or music 
 - [mac641/gotep](https://github.com/mac641/gotep)
 - [mac641/audio-converter](https://github.com/mac641/audio-converter)
 - [education/GitHubGraduation-2022](https://github.com/education/GitHubGraduation-2022)
-- [teamulster2/soTired](https://github.com/teamulster2/soTired)
 
 #### 🌱 My latest projects
 
