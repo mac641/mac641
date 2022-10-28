@@ -9,7 +9,6 @@ Augsburg. I like to code all kinds of stuff, especially if it's sports or music 
 
 #### 👷 Check out what I'm currently working on
 
-- [mac641/nas-backup](https://github.com/mac641/nas-backup)
 - [mac641/gotep](https://github.com/mac641/gotep)
 - [mac641/audio-converter](https://github.com/mac641/audio-converter)
 - [education/GitHubGraduation-2022](https://github.com/education/GitHubGraduation-2022)
@@ -18,7 +17,6 @@ Augsburg. I like to code all kinds of stuff, especially if it's sports or music 
 
 - [mac641/gotep](https://github.com/mac641/gotep) - gotep is a terminal-based REST client designed to execute HTTP tests based on the Jetbrains HTTP-Client.
 - [mac641/audio-converter](https://github.com/mac641/audio-converter) - audio-converter allows you to convert audio files from within your web browser.
-- [mac641/nas-backup](https://github.com/mac641/nas-backup) - This repo contains Docker components for backing up your NAS within a LAN.
 - [mac641/tab-split-merger](https://github.com/mac641/tab-split-merger) - Tab Split Merger for Firefox splits tabs into multiple windows and merges them back together into one.
 
 #### 📓 Gists I wrote
