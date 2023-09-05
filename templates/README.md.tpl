@@ -1,11 +1,6 @@
-<div align="center">
-  <img src="img/profile_new-400x267.png">
-</div>
-
 ### Hi there 👋
 
-I'm Marcel, 26, currently pursuing a bachelor's degree in Computer Science at the University of Applied Sciences
-Augsburg. I like to code all kinds of stuff, especially if it's sports or music related.
+I'm Marcel. Welcome to my GitHub profile!
 
 #### 👷 Check out what I'm currently working on
 {{range recentContributions 7}}
