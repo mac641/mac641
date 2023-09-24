@@ -1,17 +1,11 @@
-<div align="center">
-  <img src="img/profile_new-400x267.png">
-</div>
-
 ### Hi there 👋
 
-I'm Marcel, 26, currently pursuing a bachelor's degree in Computer Science at the University of Applied Sciences
-Augsburg. I like to code all kinds of stuff, especially if it's sports or music related.
+I'm Marcel. Welcome to my GitHub profile!
 
 #### 👷 Check out what I'm currently working on
 
 - [mac641/gotep](https://github.com/mac641/gotep)
 - [mac641/audio-converter](https://github.com/mac641/audio-converter)
-- [education/GitHubGraduation-2022](https://github.com/education/GitHubGraduation-2022)
 
 #### 🌱 My latest projects
 
