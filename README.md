@@ -4,8 +4,6 @@ I'm Marcel. Welcome to my GitHub profile!
 
 #### 👷 Check out what I'm currently working on
 
-- [mac641/gotep](https://github.com/mac641/gotep)
-- [mac641/audio-converter](https://github.com/mac641/audio-converter)
 
 #### 🌱 My latest projects
 
