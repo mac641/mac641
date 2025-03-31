@@ -4,6 +4,7 @@ I'm Marcel. Welcome to my GitHub profile!
 
 #### 👷 Check out what I'm currently working on
 
+- [metal-stack/metalctl](https://github.com/metal-stack/metalctl)
 
 #### 📓 Gists I wrote
 
