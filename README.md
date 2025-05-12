@@ -4,6 +4,7 @@ I'm Marcel. Welcome to my GitHub profile!
 
 ## 👷 Check out what I'm currently working on
 
+- [mac641/audio-scanner](https://github.com/mac641/audio-scanner)
 - [metal-stack/metal-roles](https://github.com/metal-stack/metal-roles)
 - [metal-stack/metalctl](https://github.com/metal-stack/metalctl)
 - [metal-stack/metal-go](https://github.com/metal-stack/metal-go)
